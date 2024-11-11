@@ -1,6 +1,6 @@
 
 import os;
-from data import Data
+from config import Data
 
 
 if __name__ == "__main__":
